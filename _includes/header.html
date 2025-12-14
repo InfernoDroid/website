@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="brand">
+    <img src="{{ site.baseurl }}/assets/images/inferix-wave.png" alt="Inferix" class="mascot">
+    <span class="title">InfernoDroid</span>
+  </div>
+
+  <nav>
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+  </nav>
+</header>
