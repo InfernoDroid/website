@@ -1,6 +1,6 @@
 # InfernoDroid
 
-Powered by flame. Built by curiosity.
+Redifining Android.
 
 Mascot: **Inferix**
 
