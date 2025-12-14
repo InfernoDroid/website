@@ -1,5 +1,5 @@
 - name: Home
-  link: "website"
+  link: "../"
 - name: Projects
   link: "projects"
 - name: About
